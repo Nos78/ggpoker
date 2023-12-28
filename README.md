@@ -1,6 +1,8 @@
 # ggpoker
 My recommended keyboard shortcuts for the GGPoker PC App
 
+- https://rawcdn.githack.com/Nos78/ggpoker/main/index.html
+
 A simple HTML page documenting my suggested keyboard shortcuts for the GGPoker desktop application (for obvious reasons, there isn't one for mobile).
 
 ## Installing this cheat-sheet
